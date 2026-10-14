@@ -14,4 +14,4 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "This is a test step"
+      - run: echo "This is a test step xd"

@@ -2,7 +2,7 @@ name: vulnpy
 
 on:
   push:
-    branches: # similar to "only" in GitLab
+    branches: # similar to "gg" in GitLab
       - main
 
 jobs:
